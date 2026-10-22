@@ -8,7 +8,7 @@
 [![Status](https://img.shields.io/badge/Status-Early%20Access%20Beta-blue)]()
 
 > 🚀 **Get Early Access Beta (Gumroad):** https://meshborn.gumroad.com/l/cloth-studio-mode
-
+> Discord: https://discord.gg/h86V8Vyffn
 ---
 
 ## ✨ Key Features
